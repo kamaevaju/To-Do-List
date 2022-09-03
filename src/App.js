@@ -7,16 +7,19 @@ function App() {
   return (
     <div className='app'>
       <div className='container'>
-      <img className='image' src={image} width="180px" alt='pic1' />
+        <img className='image' src={image} width="180px" alt='pic1' />
       </div>
+
       <div className='container'>
-      <h1>To Do List</h1>
+        <h1>To Do List</h1>
       </div>
+
       <div className='container'>
-      <BusinessList />
+        <BusinessList />
       </div>
+
       <div className='container'>
-      <p>Have a good day!</p>
+        <p>Have a good day!</p>
       </div>
       
     </div>
