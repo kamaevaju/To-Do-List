@@ -1,5 +1,5 @@
 import './App.css';
-import image from './bulb.png';
+import image from './bulb.jpg';
 import { BusinessList } from './ToDoList';
 
 
